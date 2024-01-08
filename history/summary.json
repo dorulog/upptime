@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/dorulog.com.ico",
     "slug": "dorulog-com",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.51%",
+    "uptimeYear": "98.78%",
     "time": 378,
-    "timeDay": 476,
-    "timeWeek": 460,
-    "timeMonth": 462,
-    "timeYear": 345,
+    "timeDay": 462,
+    "timeWeek": 437,
+    "timeMonth": 464,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2023-02-26": 86,
       "2023-01-12": 581,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   }
 ]
