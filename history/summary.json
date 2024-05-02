@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dorulog.com.ico",
     "slug": "dorulog-com",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 448,
-    "timeWeek": 488,
-    "timeMonth": 474,
-    "timeYear": 400,
+    "time": 367,
+    "timeDay": 397,
+    "timeWeek": 462,
+    "timeMonth": 473,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   }
 ]
