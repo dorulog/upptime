@@ -6,15 +6,15 @@
     "slug": "dorulog-com",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 380,
-    "timeWeek": 509,
-    "timeMonth": 443,
-    "timeYear": 468,
+    "timeDay": 575,
+    "timeWeek": 510,
+    "timeMonth": 448,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2024-11-19": 17
     }
