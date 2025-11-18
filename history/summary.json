@@ -4,19 +4,19 @@
     "url": "https://dorulog.com",
     "icon": "https://icons.duckduckgo.com/ip3/dorulog.com.ico",
     "slug": "dorulog-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 499,
-    "timeDay": 790,
-    "timeWeek": 666,
-    "timeMonth": 548,
+    "timeDay": 762,
+    "timeWeek": 658,
+    "timeMonth": 547,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-11-18": 116,
+      "2025-11-18": 122,
       "2024-11-19": 17
     }
   }
